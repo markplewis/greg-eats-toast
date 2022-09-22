@@ -10,7 +10,7 @@ body {
   text-align: center;
   font-family: Helvetica, Arial, sans-serif;
   color: #4e85a9;
-  background: #FFF url("../images/background.jpg") repeat 0 0;
+  background: #FFF url("../images/background.png") repeat 0 0;
   background-size: 150px auto;
   display: flex;
 }
